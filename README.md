@@ -1,6 +1,9 @@
 # **Nova Rewards**
 *Advanced FiveM Rewards System*
 
+# Preview
+![rewards](https://github.com/NovaScripts123/nova_rewards/assets/142164748/312ff9cc-1804-4a84-a0bb-e6411b7153e9)
+
 # Dependencies
 - esx/qbcore
 
