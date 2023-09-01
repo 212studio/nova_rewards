@@ -2,7 +2,7 @@
 *Advanced FiveM Rewards System*
 
 # Preview
-![rewards](https://github.com/NovaScripts123/nova_rewards/assets/142164748/312ff9cc-1804-4a84-a0bb-e6411b7153e9)
+![rewards]([https://github.com/NovaScripts123/nova_rewards/assets/142164748/312ff9cc-1804-4a84-a0bb-e6411b7153e9](https://media.discordapp.net/attachments/1145654368654331914/1145660351589920870/image.png))
 
 # Dependencies
 - esx/qbcore
