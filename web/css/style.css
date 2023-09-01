@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Novecento';
+    src: url(../fonts/novecento.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    font-family: 'Novecento';
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    overflow: hidden;
+}
+
+
+#app {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}

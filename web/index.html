@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title></title>
+        <meta charset='UTF-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+
+        <div id="app">
+            <div class="absolute h-[22.4%] w-[11.5%] absolute right-[15.6%] bottom-[0%]" style="background: linear-gradient(0deg, #F63957 0%, rgba(255, 255, 255, 0.00) 100%);">
+                <div class="h-full w-full flex justify-center">
+                    <div class="rotate-[-1.856deg] text-center">
+                        <div class="text-[20px] relative top-[3%] text-[#C7C7C7]">RIMANENTE</div>
+                        <div class="text-[20px] text-[white] relative top-[3%] text-[#C7C7C7]">{{msToMin()}}</div>
+                        <div class="h-[24.5%] w-auto border top-[5.5%] relative rounded-[10px] border-[3px] border-[#CDEB57] bg-[#017D0B]">
+                            <div class="h-full w-full flex items-center justify-center">
+                                <span class="text-[white] text-[20px] p-[1vh]">{{quantity}} {{labelItem}}</span>
+                            </div>
+                        </div>
+
+        
+                    </div>
+                    <div class="absolute bottom-[-1%] h-[45%] w-[85%] flex items-center justify-center object-cover">
+                        <img class="h-[120px] w-[150px]" :src="'./img/'+img+'.png'" style="" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+        <script src='https://code.jquery.com/jquery-3.1.1.min.js'></script>
+        <script src='https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js'></script>
+        <script src="./js/script.js"></script>
+        <script src='https://cdn.tailwindcss.com'></script>
+    </body>
+</html>
