@@ -16,3 +16,6 @@
 4. Start the server.
 
 **inspired by Grand RP**
+
+# Support
+[Discord](https://discord.gg/HNhCsR9cHU)
